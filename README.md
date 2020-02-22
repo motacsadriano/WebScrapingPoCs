@@ -1,2 +1,2 @@
 # WebScrapingPoCs
-PoCs for Webscraping in Python
+Using Python for Webscraping in Internet Pages - PoCs
